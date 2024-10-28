@@ -1100,5 +1100,14 @@ a:focus {
     width: 500px;
     height: 500px;
   }
-
+  
+  iframe{
+    width:400px;
+    height:400px
+  }
+  
+}
+iframe{
+  width:600px;
+  height:550px
 }
